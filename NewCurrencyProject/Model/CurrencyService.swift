@@ -2,9 +2,6 @@
 //  CurrencyService.swift
 //  NewCurrencyProject
 //
-//  Created by Dmitry Kutlyev on 23/06/2019.
-//  Copyright © 2019 Dmitry Kutlyev. All rights reserved.
-//
 
 import Foundation
 
